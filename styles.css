@@ -133,6 +133,6 @@ footer {
 
     nav a {
         display: flex;
-        justify-content: space space-evenly
+        justify-content: space-evenly
     }
 }
