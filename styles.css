@@ -131,8 +131,9 @@ footer {
         width: 30%;
     }
 
-    nav a {
+    nav {
         display: flex;
         justify-content: space-evenly
     }
+
 }
