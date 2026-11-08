@@ -130,14 +130,4 @@ footer {
     .card-row section {
         width: 30%;
     }
-
-    nav ul {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    nav a {
-        margin: 0;
-    }
 }
