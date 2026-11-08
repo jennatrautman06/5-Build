@@ -1,4 +1,4 @@
-/* CSS by Christina Carrasquilla, iteration by */
+/* CSS by Christina Carrasquilla, iteration by Jenna Trautman*/
 
 /* ===== Color Palette ===== 
 
@@ -131,9 +131,23 @@ footer {
         width: 30%;
     }
 
-    nav ul {
+    nav {
         display: flex;
         justify-content: space-evenly
     }
 
+    nav a {
+        display: flex;
+    }
+
+    nav {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
 }
