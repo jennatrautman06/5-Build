@@ -130,4 +130,9 @@ footer {
     .card-row section {
         width: 30%;
     }
+
+    nav a {
+        display: flex;
+        justify-content: space space-evenly
+    }
 }
