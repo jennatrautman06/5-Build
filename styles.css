@@ -131,7 +131,13 @@ footer {
         width: 30%;
     }
 
+    nav ul {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
     nav a {
-        padding-left: 2rem;
+        margin: 0;
     }
 }
